@@ -1,0 +1,6 @@
+@EcoTrackApi_HostAddress = http://localhost:5208
+
+GET {{EcoTrackApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
